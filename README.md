@@ -1,2 +1,3 @@
-# selenium-demo
-This is my first Selenium Git repo
+# selenium-java
+Repository containing various Selenium Java automation scripts and frameworks for browser testing. Includes examples, utilities, and configurations to streamline automated testing processes.
+Author - Shuvam Basak
